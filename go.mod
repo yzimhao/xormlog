@@ -1,4 +1,4 @@
-module github.com/leeyongda/xorm
+module github.com/yzimhao/xormlog
 
 go 1.13
 
